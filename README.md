@@ -1,4 +1,4 @@
-# ansys_examples
+# Ansys Project Examples
 
 
 ## Fluent 
